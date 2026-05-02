@@ -28,7 +28,7 @@ The 2D view of the traces, footprints, and mounting holes.
 
 ## 📂 What's in this Repo?
 * **Design Files:** Core KiCad source files (`.kicad_pcb`, `.kicad_sch`, `.kicad_pro`).
-* **3D Assets:** The `.step` file for the sensor[cite: 1].
+* **3D Assets:** The `.step` file for the sensor..
 * **Visuals:** PNG snapshots of the design for quick reference.
 
 *Developed as part of the project laboratory data, Dec 2024.*
