@@ -5,20 +5,16 @@ This repository contains the KiCad design files for a custom PCB featuring the *
 ## Project Visuals
 
 ### 3D PCB Render
-This is the final look of the board, including the sensor placement and Micro-USB interface.
 ![3D PCB Render](3D%20PCB%20render.png)
 
-### Schematic Design
-The circuit includes the STM32 core, voltage regulation, and the I2C communication lines for the sensor.
-
-* **Main System Schematic:**
+### Circuit Design
+* **Full Schematic:**
 ![Full Schematic](SCH-mc.jpg)
 
 * **APDS-9960 Sensor Detail:**
 ![Sensor Schematic](Sch-APDS-9960.png)
 
 ### PCB Layout & Footprints
-The 2D layout showing trace routing and component footprints.
 ![PCB Footprint](footprint%20PCB.jpg)
 
 ## Features
