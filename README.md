@@ -16,7 +16,6 @@ This repository contains the KiCad design files for a custom PCB featuring the *
 
 ### PCB Layout & Footprints
 ![PCB Footprint](footprint%20PCB.jpg)
-
 ## Features
 * **Sensor:** APDS-9960 for gesture and color sensing.
 * **MCU:** STM32F103 (Blue Pill compatible core).
