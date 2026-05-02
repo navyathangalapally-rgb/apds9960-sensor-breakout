@@ -1,5 +1,3 @@
-# apds9960-sensor-breakout
-A KiCad-based PCB design for an APDS-9960 RGB, Proximity, and Gesture sensor module, developed for the CBMC Laboratory project.
 # APDS-9960 & STM32 Gesture Sensor Breakout
 
 This repository contains the KiCad design files for a custom PCB featuring the **APDS-9960** (RGB, Proximity, and Gesture sensor) controlled by an **STM32F103C8T6** microcontroller.
