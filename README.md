@@ -14,7 +14,6 @@ The system includes:
 - APDS-9960 gesture and color sensor
 - Power regulation and USB interface
 
-
 ## How it Works
 
 1. The APDS-9960 sensor detects gestures, proximity, and color data  
